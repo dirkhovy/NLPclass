@@ -20,9 +20,9 @@
 | 16| [Improving classification performance and insights](https://github.com/dirkhovy/NLPclass/tree/master/16)	   | metrics, significance, model and feature selection, regularization, RLR |
 | 17| [Application: Sentiment Analysis](https://github.com/dirkhovy/NLPclass/tree/master/17) | SA with LR and RLR |
 | 18| [Neural networks basics](https://github.com/dirkhovy/NLPclass/tree/master/18) | History, architecture, activation function, loss function, input-output differences |
-| 19| [NN2](https://github.com/dirkhovy/NLPclass/tree/master/19) |  Feed-forward    Multilayer Perceptron |
-| 20| [NN3](https://github.com/dirkhovy/NLPclass/tree/master/20) | CNNs, Recurrent networks, sequence problems |
-| 21| [NN4](https://github.com/dirkhovy/NLPclass/tree/master/21) | RNNs and Bi-LSTMs in keras |
-| 22| [NN5](https://github.com/dirkhovy/NLPclass/tree/master/22) | Attention and Multitask Learning |
+| 19| [NN2](https://github.com/dirkhovy/NLPclass/tree/master/19) |  Feed-forward Multilayer Perceptron in keras |
+| 20| [NN3](https://github.com/dirkhovy/NLPclass/tree/master/20) | Convolutional neural networks for sequence problems |
+| 21| [NN4](https://github.com/dirkhovy/NLPclass/tree/master/21) | Recurrent Neural Networks and attention |
+| 22| [NN5](https://github.com/dirkhovy/NLPclass/tree/master/22) | RNNs in keras |
 | 23| Final Project Presentations | | 
 | 24| Final Project Presentations| | 
