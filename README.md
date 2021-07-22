@@ -26,3 +26,6 @@
 | 22| [NN5](https://github.com/dirkhovy/NLPclass/tree/master/22) | RNNs in keras |
 | 23| Final Project Presentations | | 
 | 24| Final Project Presentations| | 
+
+
+[Lecture notes](http://www.dirkhovy.com/portfolio/papers/download/nlpss.pdf)
